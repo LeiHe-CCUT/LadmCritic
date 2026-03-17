@@ -1,5 +1,0 @@
-# 行為克隆 (Behavioral Cloning) 訓練的超參數設定
-epochs: 50
-batch_size: 256
-learning_rate: 0.0001
-validation_split: 0.1 # 將 10% 的數據用於驗證，以監控過擬合
